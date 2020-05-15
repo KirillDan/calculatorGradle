@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.27">
+<file name="/home/kirill/Documents/gits/calculatorGradle/calculatorGradle/src/main/java/com/example/calculator/Calculator.java">
+</file>
+<file name="/home/kirill/Documents/gits/calculatorGradle/calculatorGradle/src/main/java/com/example/calculator/CalculatorApplication.java">
+</file>
+<file name="/home/kirill/Documents/gits/calculatorGradle/calculatorGradle/src/main/java/com/example/calculator/CalculatorController.java">
+</file>
+</checkstyle>
